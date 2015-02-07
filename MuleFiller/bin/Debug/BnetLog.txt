@@ -1,0 +1,23 @@
+12/26 03:11:43.471  Connecting to Battle.net...
+12/26 03:11:43.471      querying gateway survivalgames.com.pl
+12/26 03:11:43.512      searching for the fastest server
+12/26 03:11:43.565      Connected to server 37.187.236.59
+12/26 03:11:43.565      accessing accounts
+12/26 03:11:43.705      Checking for the latest version
+12/26 03:11:43.831      Connected to Battle.net
+12/26 03:34:59.988  Connecting to Battle.net...
+12/26 03:34:59.998      querying gateway survivalgames.com.pl
+12/26 03:35:00.028      searching for the fastest server
+12/26 03:35:00.092      Connected to server 37.187.236.59
+12/26 03:35:00.102      accessing accounts
+12/26 03:35:00.232      Checking for the latest version
+12/26 03:35:00.350      Connected to Battle.net
+12/26 04:59:39.727  Connecting to Battle.net...
+12/26 04:59:39.727      querying gateway survivalgames.com.pl
+12/26 04:59:51.758      ERROR GetServersList: gethostbyname failed to get server list (11004)
+12/26 05:04:54.135  Connecting to Battle.net...
+12/26 05:04:54.135      querying gateway survivalgames.com.pl
+12/26 05:04:54.227      searching for the fastest server
+12/26 05:04:54.307      Connected to server 37.187.236.59
+12/26 05:04:54.307      accessing accounts
+12/26 05:04:54.499      Checking for the latest version
